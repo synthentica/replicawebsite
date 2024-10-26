@@ -7,6 +7,7 @@ Transform any website screenshot into a comprehensive design blueprint with ease
 - **Free to Use:** Accessible and free for all developers and designers.
 
 PROMPT:
+
 Analyze the provided website screenshot and give a highly detailed and precise description of the site's appearance and components. The description should include the following sections, organized clearly with headings and subheadings:
 
 * Title: State the website's name or title (e.g., "YouTube Homepage Redesign").
